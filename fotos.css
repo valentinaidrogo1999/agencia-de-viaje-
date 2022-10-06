@@ -1,0 +1,42 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+/* contenedor para las imagenes*/
+.fotos {
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 10px;
+  margin-top: 50px;
+}
+
+/* estilos para cada una de las imagenes*/
+.fotos h2 {
+  padding-left: 100px;
+}
+.fotos img {
+  width: 350px;
+  height: 350px;
+  border-radius: 100%;
+  box-shadow: 10px 8px 10px rgb(15, 15, 15);
+}
+
+.fila2 {
+  width: 100vw;
+  height: 50vh;
+  display: flex;
+  justify-content: space-evenly;
+  padding-left: 10px;
+}
+.fila2 h2 {
+  padding-left: 100px;
+}
+.fila2 img {
+  width: 350px;
+  height: 350px;
+  border-radius: 100%;
+  box-shadow: 10px 8px 10px rgb(15, 15, 15);
+}

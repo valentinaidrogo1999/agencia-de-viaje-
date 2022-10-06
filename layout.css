@@ -1,0 +1,83 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background: rgb(59, 58, 58);
+}
+
+/* estilos para el meni de navegacion*/
+header {
+  background: rgb(0, 0, 0);
+  width: 100vw;
+  box-shadow: 10px 8px 10px rgb(221, 7, 7);
+  height: 90px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+header a:hover {
+  border-radius: 50px;
+  box-shadow: 0px 20px 20px rgb(250, 1, 1) inset;
+  height: 5vh;
+  transition-duration: 1s;
+}
+
+header a {
+  line-height: 90px;
+  color: aliceblue;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+a {
+  text-decoration: none;
+}
+
+/* estilos para el pie de pagina*/
+footer {
+  background: #000;
+  height: 15vh;
+  height: 25vh;
+}
+.caja_linea {
+  display: flex;
+  justify-content: space-between;
+}
+hr {
+  width: 35vw;
+  margin-top: 30px;
+  height: 0px;
+}
+h2 {
+  color: rgb(255, 255, 255);
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* contenedor de los logos de las redes sociales */
+.contenedor {
+  display: flex;
+  justify-content: center;
+}
+.logos img {
+  width: 15vw;
+  height: 20vh;
+  margin: auto;
+}
+.logos p {
+  color: aliceblue;
+  font-size: 20px;
+}
+.logos p b {
+  font-size: 30px;
+}
+.derechos {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 150%;
+  font-weight: 900;
+}

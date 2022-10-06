@@ -1,0 +1,107 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+/* contenedor de las imagenes*/
+.banderas {
+  width: 50vw;
+  margin: 30px 10px;
+  display: flex;
+  padding-left: 10px;
+}
+/* estilos de la primera imagen a su titulo (h2) y a su parrafa (p)*/
+.venezuela img {
+  width: 30vw;
+  height: 33vh;
+  border-radius: 20px;
+  box-shadow: 10px 8px 10px rgb(15, 15, 15);
+  padding-left: 10px;
+}
+.titulo1 {
+  background: #000;
+  margin-left: 15%;
+  width: 17vw;
+  border-radius: 10px;
+}
+.titulo1 h2 {
+  color: rgb(255, 230, 0);
+  text-align: center;
+}
+.parrafo1 p {
+  background: rgb(59, 59, 190);
+  width: 20vw;
+  height: 50vh;
+  margin: 20px 10%;
+  font-size: 20px;
+  font-weight: 900;
+  font-family: Verdana, Tahoma, sans-serif;
+  padding: 10px 10px;
+  border-radius: 10px;
+  box-shadow: 10px 8px 10px rgb(89, 165, 216);
+  text-align: justify;
+}
+
+/* estilos de la segunda imagen a su titulo (h2) y a su parrafa (p)*/
+.hondura img {
+  width: 30vw;
+  height: 33vh;
+  border-radius: 20px;
+  box-shadow: 10px 8px 10px rgb(15, 15, 15);
+  padding-left: 10px;
+}
+.titulo2 {
+  background: #000;
+  margin-left: 15%;
+  width: 17vw;
+  border-radius: 10px;
+}
+.titulo2 h2 {
+  color: rgb(0, 117, 226);
+  text-align: center;
+}
+.parrafo2 p {
+  background: rgb(255, 0, 0);
+  width: 20vw;
+  height: 50vh;
+  margin: 20px 10%;
+  padding: 10px 10px;
+  font-size: 20px;
+  font-weight: 900;
+  font-family: Verdana, Tahoma, sans-serif;
+  border-radius: 10px;
+  box-shadow: 10px 8px 10px rgb(189, 20, 20);
+  text-align: justify;
+}
+
+/* estilos de la tercera imagen a su titulo (h2) y a su parrafa (p)*/
+.colombia img {
+  width: 30vw;
+  height: 33vh;
+  border-radius: 20px;
+  box-shadow: 10px 8px 10px rgb(15, 15, 15);
+  padding-left: 10px;
+}
+.titulo3 {
+  background: #000;
+  margin-left: 15%;
+  width: 17vw;
+  border-radius: 10px;
+}
+.titulo3 h2 {
+  color: rgb(255, 37, 37);
+  text-align: center;
+}
+.parrafo3 p {
+  background: rgb(255, 230, 0);
+  width: 20vw;
+  height: 50vh;
+  margin: 20px 10%;
+  font-size: 20px;
+  padding: 10px 10px;
+  font-weight: 900;
+  font-family: Verdana, Tahoma, sans-serif;
+  border-radius: 10px;
+  box-shadow: 10px 8px 10px rgb(159, 161, 9);
+  text-align: justify;
+}

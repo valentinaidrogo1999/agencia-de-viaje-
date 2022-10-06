@@ -1,0 +1,61 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+/*  los (h) son titulos que se le dan a la pagina */
+h1 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px 10px;
+}
+/* contenedor del formulario form*/
+
+form {
+  background: rgb(209, 198, 198);
+  width: 30vw;
+  height: 50vh;
+  padding: 30px;
+  margin: auto;
+  margin-top: 150px;
+  border-radius: 10px;
+  border: 1px solid #444;
+  box-shadow: 10px 8px 10px rgb(15, 15, 15);
+  margin-bottom: 40px;
+}
+
+/* estilos a los parrafos que que estan dentro de la clase enlaces*/
+.enlaces {
+  display: flex;
+  justify-content: center;
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+/* enlaces que estan dentro de la clase formulario */
+.formulario p a {
+  color: rgb(19, 66, 105);
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+/* estilos a los inputs*/
+.control {
+  width: 10vw;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(95, 94, 94);
+  margin: 10px 35px;
+}
+
+/* boton de registro*/
+.boton {
+  margin-left: 17%;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  font-weight: 1000;
+  background: rgb(22, 80, 138);
+  padding: 5px 100px;
+  margin: 5% 25%;
+}
