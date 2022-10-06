@@ -41,7 +41,7 @@ a {
 footer {
   background: #000;
   height: 15vh;
-  height: 25vh;
+  height: 23vh;
 }
 .caja_linea {
   display: flex;
@@ -65,7 +65,7 @@ h2 {
 }
 .logos img {
   width: 15vw;
-  height: 20vh;
+  height: 17vh;
   margin: auto;
 }
 .logos p {
