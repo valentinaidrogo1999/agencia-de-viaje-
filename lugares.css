@@ -13,7 +13,7 @@
 /* estilos de la primera imagen a su titulo (h2) y a su parrafa (p)*/
 .venezuela img {
   width: 30vw;
-  height: 33vh;
+  height: 30vh;
   border-radius: 20px;
   box-shadow: 10px 8px 10px rgb(15, 15, 15);
   padding-left: 10px;
@@ -33,7 +33,7 @@
   width: 20vw;
   height: 50vh;
   margin: 20px 10%;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 900;
   font-family: Verdana, Tahoma, sans-serif;
   padding: 10px 10px;
@@ -45,7 +45,7 @@
 /* estilos de la segunda imagen a su titulo (h2) y a su parrafa (p)*/
 .hondura img {
   width: 30vw;
-  height: 33vh;
+  height: 30vh;
   border-radius: 20px;
   box-shadow: 10px 8px 10px rgb(15, 15, 15);
   padding-left: 10px;
@@ -64,9 +64,9 @@
   background: rgb(255, 0, 0);
   width: 20vw;
   height: 50vh;
-  margin: 20px 10%;
+  margin: 20px 35px;
   padding: 10px 10px;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 900;
   font-family: Verdana, Tahoma, sans-serif;
   border-radius: 10px;
@@ -77,7 +77,7 @@
 /* estilos de la tercera imagen a su titulo (h2) y a su parrafa (p)*/
 .colombia img {
   width: 30vw;
-  height: 33vh;
+  height: 30vh;
   border-radius: 20px;
   box-shadow: 10px 8px 10px rgb(15, 15, 15);
   padding-left: 10px;
@@ -97,7 +97,7 @@
   width: 20vw;
   height: 50vh;
   margin: 20px 10%;
-  font-size: 20px;
+  font-size: 15px;
   padding: 10px 10px;
   font-weight: 900;
   font-family: Verdana, Tahoma, sans-serif;
